@@ -5,7 +5,7 @@ Notes are saved automatically so you never have to worry about losing anything. 
 
 A Android App for taking down a quick note or list in Kotlin using Concepts like Coroutines, Room Database.
 
-<b> * Notes App Screenshots* </b> : https://docs.google.com/document/d/1CyU7NAe62EmrG5XEPIQp0KfVS291j0wU4trWPztBrTE/edit?usp=sharing
+<b> *Notes App Screenshots* </b> : https://docs.google.com/document/d/1CyU7NAe62EmrG5XEPIQp0KfVS291j0wU4trWPztBrTE/edit?usp=sharing
 
 <b> *Functionality & Concepts used* </b> :
 
